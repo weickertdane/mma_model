@@ -4,6 +4,9 @@ testing-notebooks
 #ignore the __pychache__ directory
 __pycache__/
 
+# ignore any log directory
+log/
+
 # ignore database directory
 database/
 
