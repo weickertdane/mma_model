@@ -1,1 +1,11 @@
+
 testing-notebooks
+
+# ignore log files
+*.log
+
+#ignore the __pychache__ directory
+__pycache__/
+
+# ignore database directory
+database/
