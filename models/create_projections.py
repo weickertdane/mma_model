@@ -10,8 +10,8 @@ from email.message import EmailMessage
 import io
 import os
 
-log_file_path = 'models/logs/create_projections.log'
-logging.basicConfig(filename=log_file_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+log_file_path_test = 'models/logs/create_projections.log'
+logging.basicConfig(filename=log_file_path_test, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
 
